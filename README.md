@@ -33,6 +33,15 @@ The project involves the following tasks:
 
 The project includes visualizations of the data balancing process, model metrics, and confusion matrix.
 
+### Data Balancing Visualization
+![Data Balancing](images/data_balancing.png)
+
+### Model Metrics Visualization
+![Model Metrics](images/model_metrics.png)
+
+### Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
+
 ## License
 
 This project is licensed under the MIT License.
