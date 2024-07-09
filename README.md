@@ -34,13 +34,19 @@ The project involves the following tasks:
 The project includes visualizations of the data balancing process, model metrics, and confusion matrix.
 
 ### Data Balancing Visualization
-![Data Balancing](images/data_balancing.png)
+<img width="678" alt="labeldistributions" src="https://github.com/Charlotteorsalad/NLP-Restaurant-Review/assets/86924148/bfc56700-f35b-419b-b5cd-93d7f826d1dc">
 
 ### Model Metrics Visualization
-![Model Metrics](images/model_metrics.png)
+<img width="604" alt="metrics" src="https://github.com/Charlotteorsalad/NLP-Restaurant-Review/assets/86924148/26711029-ba40-4e48-abf3-c3a5da5b87ce">
+
+### Heat Map
+<img width="550" alt="heatmap" src="https://github.com/Charlotteorsalad/NLP-Restaurant-Review/assets/86924148/ac73897f-4fac-4fdf-9746-6999c968e4b6">
 
 ### Confusion Matrix
 <img width="484" alt="confusionmatrix" src="https://github.com/Charlotteorsalad/NLP-Restaurant-Review/assets/86924148/5be4fe04-9683-4d5c-8c6d-6ee0c9384d1c">
+
+### Top 10 Restaurant based on POSITIVE predictions
+<img width="365" alt="top10" src="https://github.com/Charlotteorsalad/NLP-Restaurant-Review/assets/86924148/3b3a119b-9819-4082-aa3d-fe972094ad4a">
 
 
 ## License
