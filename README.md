@@ -40,7 +40,8 @@ The project includes visualizations of the data balancing process, model metrics
 ![Model Metrics](images/model_metrics.png)
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+<img width="484" alt="confusionmatrix" src="https://github.com/Charlotteorsalad/NLP-Restaurant-Review/assets/86924148/5be4fe04-9683-4d5c-8c6d-6ee0c9384d1c">
+
 
 ## License
 
