@@ -13,9 +13,9 @@ The project involves the following tasks:
 
 ## Repository Structure
 
-- `main.py`: The main script that executes the data loading, preprocessing, training, and evaluation steps.
+- `NaiveBayesRestaurantReviewAnalysis3.ipynb`: The main script that executes the data loading, preprocessing, training, and evaluation steps.
 - `GoogleReview_data_cleaned.csv`: The cleaned dataset used for training and evaluation.
-- `README.md`: This file containing project information and instructions.
+- `README.md`: This file contains project information and instructions.
 
 ## How to Run
 
@@ -24,9 +24,9 @@ The project involves the following tasks:
     pip install -r requirements.txt
     ```
 
-2. Run the `main.py` script:
+2. Run the `NaiveBayesRestaurantReviewAnalysis3.ipynb` script:
     ```bash
-    python main.py
+    python NaiveBayesRestaurantReviewAnalysis3.ipynb.py
     ```
 
 ## Results
