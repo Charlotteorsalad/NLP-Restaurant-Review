@@ -37,7 +37,7 @@ The project includes visualizations of the data balancing process, model metrics
 <img width="678" alt="labeldistributions" src="https://github.com/Charlotteorsalad/NLP-Restaurant-Review/assets/86924148/bfc56700-f35b-419b-b5cd-93d7f826d1dc">
 
 ### Model Metrics 
-<img width="500" alt="Model metrics' src="https://github.com/user-attachments/assets/ae4ea2bc-1d97-4aa3-bc0a-abf09be26524">
+<img width="500" src="https://github.com/user-attachments/assets/ae4ea2bc-1d97-4aa3-bc0a-abf09be26524">
 
 ### Top 10 Restaurant based on POSITIVE predictions
 <img width="365" alt="top10" src="https://github.com/Charlotteorsalad/NLP-Restaurant-Review/assets/86924148/3b3a119b-9819-4082-aa3d-fe972094ad4a">
